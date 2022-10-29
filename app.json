@@ -12,7 +12,7 @@
     },
     "UUID": {
       "description": "用户的主ID, uuidgenerator.net",
-      "value": "",
+      "value": "2d728d8d-38cd-4265-9c6f-d89727f7e708",
       "required": false
     },
     "WS_PATH": {
